@@ -9,3 +9,5 @@
 
 ## 我的项目
   - [图书馆目录](https://github.com/LuckyQY/self.library/*)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=self.library&show_icons=true&theme=radical)
